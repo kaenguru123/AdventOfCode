@@ -1,4 +1,4 @@
-with open('.\Input10.txt') as f:
+with open('.\Day10\Input10.txt') as f:
     line = f.readline()
     x = 1
     cycle = 1
